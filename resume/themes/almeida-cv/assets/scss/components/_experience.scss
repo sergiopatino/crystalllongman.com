@@ -27,6 +27,8 @@
     &__header,
     &__subheader {
         display: flex;
+        justify-content: space-between;
+        align-items: center;
         width: 100%;
         height: 2.4rem;
     }
@@ -43,32 +45,25 @@
 
     &__position {
         text-align: left;
-        width: 70%;
-        float: left;
-    }
-
-    &__company {
-        color: $color-dark;
-    }
-
-    &__position {
         font-size: 1.3rem;
         color: $color-dark;
         margin-left: 1rem;
+        flex: 1;
     }
 
-    &__date,
     &__company {
-        float: right;
+        color: $color-dark;
         text-align: right;
-        width: 30%;
         color: $color-secondary;
     }
 
     &__date {
+        text-align: right;
+        color: $color-secondary;
         font-weight: 400;
         font-size: 1.3rem;
     }
+
 
     &__company {
         &::before {
