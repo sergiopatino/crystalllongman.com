@@ -15,12 +15,12 @@ BasicInfo:
       Info: Denver, Colorado
     - Icon: fas fa-file-pdf
       Info: <a class="contact__link" href="/pdf/Crystal_Longman_Resume.pdf" target="_blank">PDF Resume</a>
-    - Icon: fas fa-file-pdf
+    - Icon: fas fa-file-word
       Info: <a class="contact__link" href="/doc/Crystal_Longman_Resume.docx" target="_blank">Word Resume</a>
 Profile: Results-driven Account Manager with 5+ years in SaaS account management, customer success, and revenue retention. Proven record of driving renewals, expansions, and adoption across mid-market and enterprise portfolios. Skilled at multi-threading within accounts, engaging C-suite stakeholders, forecasting with precision, and delivering measurable ROI. Adept at navigating complex sales cycles (up to 4 months), synthesizing data from multiple sources, and influencing strategic decisions without direct authority.
 Experience:
   - Role: Lead Enterprise Account Manager
-    Employer: Hybrid & 4B Marketing
+    Employer: <a class="contact__link" href="https://4bmarketing.com" target="_blank">Hybrid & 4B Marketing</a>
     Positions:
       - Date: Jan 2023 - Jun 2025
         Details:
