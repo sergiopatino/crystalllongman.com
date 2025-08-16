@@ -4,37 +4,63 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
-      Info: crystal.longman@example.com
+      Info: crys.stanelle@gmail.com
     - Icon: fas fa-globe
-      Info: <a class="contact__link" href="https://linkedin.com/in/crystallongman" target="_blank">linkedin.com/in/crystallongman</a>
+      Info: <a class="contact__link" href="https://linkedin.com/in/crystal-longman" target="_blank">linkedin.com/in/crystal-longman</a>
     - Icon: fas fa-phone
-      Info: (555) 123-4567
+      Info: +1 (720) 394-1768
     - Icon: fas fa-flag-usa
       Info: US Citizen
     - Icon: fas fa-map-marker-alt
-      Info: City, State
+      Info: Denver, Colorado
     - Icon: fas fa-file-pdf
       Info: <a class="contact__link" href="/pdf/Crystal_Longman_Resume.pdf" target="_blank">PDF Version</a>
-Profile: [Update with Crystal's professional profile]
+Profile: Results-driven Account Manager with 5+ years in SaaS account management, customer success, and revenue retention. Proven record of driving renewals, expansions, and adoption across mid-market and enterprise portfolios. Skilled at multi-threading within accounts, engaging C-suite stakeholders, forecasting with precision, and delivering measurable ROI. Adept at navigating complex sales cycles (up to 4 months), synthesizing data from multiple sources, and influencing strategic decisions without direct authority.
 Experience:
-  - Role: [Update with Crystal's current role]
-    Employer: [Update with Crystal's current employer]
+  - Role: Lead Enterprise Account Manager
+    Employer: Hybrid & 4B Marketing
     Positions:
-      - Title: [Update with Crystal's current position]
-        Date: [Update with Crystal's employment dates]
-        Summary: [Update with Crystal's job summary]
+      - Title: Lead Enterprise Account Management
+        Date: Jan 2023 - Jun 2025
+        Summary: Managed and grew regulated spaces and tech accounts through relationship building, strategy, and proactive communication.
         Details:
-          - [Update with Crystal's job responsibilities]
-        Badges: ['[Update with Crystal's relevant skills]']
-  # [Add Crystal's additional work experience here]
+          - Oversaw multistate operations for MSOs, supporting client retention, compliance coordination, and cross-functional team alignment.
+          - Created and executed success plans that supported client KPIs and outcomes.
+          - Collaborated cross-functionally to refine onboarding and support processes.
+          - Maintained accurate CRM records, communicated data-driven results via QBRs, and identified risks and expansion opportunities.
+        Badges: ['Account Management', 'Customer Success', 'Revenue Retention', 'CRM', 'QBRs', 'Cross-functional Collaboration']
+  - Role: Mid-Market Customer Success / Account Manager
+    Employer: <a class="contact__link" href="https://taskray.com" target="_blank">TaskRay (Salesforce AppExchange Partner)</a>
+    Positions:
+      - Title: Mid-Market Customer Success / Account Manager
+        Date: Sep 2021 - Jan 2023
+        Summary: Owned 50+ mid-market SaaS accounts, exceeding renewal and expansion quotas while reducing churn.
+        Details:
+          - Led strategic business reviews for C-suite executives, demonstrating ROI and adoption milestones.
+          - Applied sales methodologies to identify expansion opportunities, increasing ARR within 4-month cycles.
+          - Partnered cross-functionally with Sales, Marketing, and Product to drive platform adoption and customer satisfaction.
+          - Maintained precise forecasting and account health reporting in Salesforce and Outreach.
+          - Supported onboarding, product training, and technical issue resolution to increase adoption.
+          - Prospected and qualified leads, booking demos and fueling pipeline growth.
+        Badges: ['SaaS', 'Account Management', 'Customer Success', 'Salesforce', 'Revenue Growth', 'Executive Engagement']
 
 Education:
-  - Course: [Update with Crystal's education]
-    Place: [Update with Crystal's school]
-    Date: [Update with Crystal's dates]
+  - Course: Liberal Arts Course Studies
+    Place: University of Colorado Denver
+    Date: 
+  - Course: A.S. Radiologic Technology
+    Place: Community College of Denver
+    Date: 
 
 Skills:
-  - [Update with Crystal's technical skills]
+  - Account Management, Renewals & Expansions,
+  - Net Revenue Retention, Customer Adoption,
+  - Territory Planning, Executive Stakeholder Engagement,
+  - Salesforce CRM, Forecast Accuracy,
+  - QBR Facilitation, Data-Driven Insights,
+  - SaaS Lifecycle Management, Negotiation,
+  - Value Realization, Sales Methodologies
 
 Diplomas:
-  - [Update with Crystal's certifications]
+  - Certified Customer Success Manager — SuccessCOACHING
+  - Salesforce Admin — In Progress
