@@ -1,0 +1,40 @@
+BasicInfo:
+  FirstName: Crystal
+  LastName: Longman
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-envelope
+      Info: crystal.longman@example.com
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://linkedin.com/in/crystallongman" target="_blank">linkedin.com/in/crystallongman</a>
+    - Icon: fas fa-phone
+      Info: (555) 123-4567
+    - Icon: fas fa-flag-usa
+      Info: US Citizen
+    - Icon: fas fa-map-marker-alt
+      Info: City, State
+    - Icon: fas fa-file-pdf
+      Info: <a class="contact__link" href="/pdf/Crystal_Longman_Resume.pdf" target="_blank">PDF Version</a>
+Profile: [Update with Crystal's professional profile]
+Experience:
+  - Role: [Update with Crystal's current role]
+    Employer: [Update with Crystal's current employer]
+    Positions:
+      - Title: [Update with Crystal's current position]
+        Date: [Update with Crystal's employment dates]
+        Summary: [Update with Crystal's job summary]
+        Details:
+          - [Update with Crystal's job responsibilities]
+        Badges: ['[Update with Crystal's relevant skills]']
+  # [Add Crystal's additional work experience here]
+
+Education:
+  - Course: [Update with Crystal's education]
+    Place: [Update with Crystal's school]
+    Date: [Update with Crystal's dates]
+
+Skills:
+  - [Update with Crystal's technical skills]
+
+Diplomas:
+  - [Update with Crystal's certifications]
