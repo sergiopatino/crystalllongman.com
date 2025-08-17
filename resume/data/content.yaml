@@ -4,7 +4,7 @@ BasicInfo:
   Photo: img/avatar.jpg
   Contacts:
     - Icon: fas fa-envelope
-      Info: crys.stanelle@gmail.com
+      Info: crystalmlongman@gmail.com
     - Icon: fas fa-globe
       Info: <a class="contact__link" href="https://linkedin.com/in/crystal-longman" target="_blank">linkedin.com/in/crystal-longman</a>
     - Icon: fas fa-phone
@@ -17,7 +17,7 @@ BasicInfo:
       Info: <a class="contact__link" href="/pdf/Crystal_Longman_Resume.pdf" target="_blank">PDF Resume</a>
     - Icon: fas fa-file-word
       Info: <a class="contact__link" href="/doc/Crystal_Longman_Resume.docx" target="_blank">Word Resume</a>
-Profile: Results-driven Account Manager with 5+ years in SaaS account management, customer success, and revenue retention. Proven record of driving renewals, expansions, and adoption across mid-market and enterprise portfolios. Skilled at multi-threading within accounts, engaging C-suite stakeholders, forecasting with precision, and delivering measurable ROI. Adept at navigating complex sales cycles (up to 4 months), synthesizing data from multiple sources, and influencing strategic decisions without direct authority.
+Profile: Customer Success and Account Management professional with 5+ years' experience driving retention, adoption, and expansion across SaaS, B2B, and healthcare technology portfolios. Skilled at building executive relationships, leading cross-functional teams, and delivering measurable ROI. Adept at guiding customers through onboarding, compliance, and lifecycle management while enabling revenue growth and operational efficiency. Recognized for translating customer insights into business impact and aligning solutions with client goals.
 Experience:
   - Role: Lead Enterprise Account Manager
     Employer: <a class="contact__link" href="https://4bmarketing.com" target="_blank">Hybrid & 4B Marketing</a>
@@ -25,9 +25,9 @@ Experience:
       - Date: Jan 2023 - Jun 2025
         Details:
           - Managed and grew regulated spaces and tech accounts through relationship building, strategy, and proactive communication.
-          - Oversaw multistate operations for MSOs, supporting client retention, compliance coordination, and cross-functional team alignment.
-          - Created and executed success plans that supported client KPIs and outcomes.
-          - Collaborated cross-functionally to refine onboarding and support processes.
+          - Oversaw multi-state operations for MSOs, coordinating compliance and aligning internal teams to client goals.
+          - Partnered with project managers and cross-functional stakeholders to design and execute client success plans tied to KPIs and outcomes.
+          - Streamlined onboarding and support processes, improving client experience and time-to-value.
           - Maintained accurate CRM records, communicated data-driven results via QBRs, and identified risks and expansion opportunities.
         Badges: ['Account Management', 'Customer Success', 'Revenue Retention', 'CRM', 'QBRs', 'Cross-functional Collaboration']
   - Role: Mid-Market Customer Success / Account Manager
@@ -35,13 +35,13 @@ Experience:
     Positions:
       - Date: Sep 2021 - Jan 2023
         Details:
-          - Owned 50+ mid-market SaaS accounts, exceeding renewal and expansion quotas while reducing churn.
+          - Owned a portfolio of 50+ mid-market SaaS accounts, consistently achieving renewals and driving account growth while reducing churn.
           - Led strategic business reviews for C-suite executives, demonstrating ROI and adoption milestones.
-          - Applied sales methodologies to identify expansion opportunities, increasing ARR within 4-month cycles.
+          - Identified and executed expansion opportunities, strengthening customer partnerships and contributing to portfolio growth.
           - Partnered cross-functionally with Sales, Marketing, and Product to drive platform adoption and customer satisfaction.
-          - Maintained precise forecasting and account health reporting in Salesforce and Outreach.
+          - Maintained accurate forecasting and account health reporting, ensuring proactive risk management and renewal planning.
           - Supported onboarding, product training, and technical issue resolution to increase adoption.
-          - Prospected and qualified leads, booking demos and fueling pipeline growth.
+          - Acted as the voice of the customer, shaping product roadmap priorities and driving long-term success outcomes.
         Badges: ['SaaS', 'Account Management', 'Customer Success', 'Salesforce', 'Revenue Growth', 'Executive Engagement']
 
 Education:
